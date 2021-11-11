@@ -4,7 +4,7 @@ html {
     text-align: center;
     margin: 0;
     padding: 0;
-    background-color: #000;
+    background-color: #FEE5E0;
 }
 
 .header {
@@ -25,7 +25,7 @@ html {
 
 .button {
     display: inline-block;
-    color: #fff;
+    color: #000;
     font-family: Righteous;
     font-size: 1em;
     font-weight: bold;
@@ -70,7 +70,7 @@ html {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(#000, #030303);
+    background-image: linear-gradient(#FEE5E0, #FEE5E0);
 }
 
 .roadmapwrapper {
@@ -91,9 +91,9 @@ html {
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
-    background-color: #fff;
+    background-color: #FFF2DE;
     max-width: 400px;
-    box-shadow: 0 0 0 2px #cc0000;
+    box-shadow: 0 0 0 2px #f0d9b7;
 }
 
 .roadmapv3 {
@@ -101,9 +101,9 @@ html {
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
-    background-color: #fff;
+    background-color: #FFF2DE;
     max-width: 400px;
-    box-shadow: 0 0 0 2px #cc0000;
+    box-shadow: 0 0 0 2px #f0d9b7;
 }
 
 .roadmapv4 {
@@ -111,13 +111,13 @@ html {
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
-    background-color: #fff;
+    background-color: #FFF2DE;
     max-width: 400px;
-    box-shadow: 0 0 0 2px #cc0000;
+    box-shadow: 0 0 0 2px #f0d9b7;
 }
 
 .roadmapheader {
-    color: #cc0000;
+    color: #e8a79c;
     font-family: Righteous;
     font-size: 1.75em;
     font-weight: bold;
@@ -139,7 +139,7 @@ html {
 h1 {
     margin-left: 5%;
     margin-right: 5%;
-    color: #fff;
+    color: #000;
     font-family: Righteous;
     font-size: 2.75em;
     font-weight: bold;
@@ -151,7 +151,7 @@ h1 {
 .about p {
     margin-left: auto;
     margin-right: auto;
-    color: #fff;
+    color: #000;
     font-family: Lato;
     font-size: 1.15em;
     line-height: 2em;
@@ -162,7 +162,7 @@ h1 {
 
 .socials {
     height: 200px;
-    background-color: #030303;
+    background-color: #FEE5E0;
     width: 100%;
     margin: auto;
     margin: auto;
@@ -188,12 +188,12 @@ h1 {
     font-family: Lato;
     font-size: 0.7em;
     margin-top: 10px;
-    color: #e2e2e2;
+    color: #111;
     transition: 0.3s;
 }
 
 .linktext:hover {
-    color: #fff;
+    color: #000;
 }
 
 .telegram {
@@ -229,7 +229,7 @@ h1 {
     margin-top: 50px;
     margin-left: 10px;
     display: inline-block;
-    color: #fff;
+    color: #000;
     font-family: Righteous;
     font-size: 1.5em;
     font-variant: normal;
@@ -239,16 +239,16 @@ h1 {
 .topbar {
     overflow: auto;
     width: 100%;
-    background-image: linear-gradient(#000, #111);
-    background-color: #111;
-    color: #fff;
+    background-image: linear-gradient(#FFEDDF, #FEE5E0);
+    background-color: #FFF3DE;
+    color: #000;
     text-align: left;
 }
 
 .topbar .navlink {
     float: right;
     display: block;
-    color: #fff;
+    color: #000;
     text-align: center;
     padding: 10px 17px;
     margin-top: 40px;
@@ -315,7 +315,7 @@ h1 {
 .topbar .topinnerwrapper .topheadline {
     margin-left: 5%;
     margin-right: 5%;
-    text-align: center;
+    text-align: left;
     max-width: 500px;
     display: inline-block;
 }
@@ -326,7 +326,7 @@ h1 {
     line-height: 1.3;
     font-weight: bold;
     font-variant: normal;
-    text-align: center;
+    text-align: left;
 }
 
 .topbar .topinnerwrapper .topimage {
@@ -342,13 +342,13 @@ h1 {
 
 .topbutton {
     display: inline-block;
-    background-image: linear-gradient(to right, #ed7b42, #cc0000);
+    /* background-image: linear-gradient(to right, #ed7b42, #cc0000); */
     outline: none;
     box-shadow: 0 0 0 1px #111;
     padding: 13px 20px 13px 20px;
-    color: #fff;
+    color: #000;
     text-align: center;
-    background-color: #cc0000;
+    background-color: #FFF3E0;
     border-radius: 20px;
     transition: 0.3s;
     text-decoration: none;
@@ -362,7 +362,7 @@ h1 {
 }
 
 .topbutton:hover {
-    color: #cc0000;
+    color: rgb(211 109 77);
 }
 
 .whitepaperbutton {
@@ -387,7 +387,7 @@ h1 {
 }
 
 .whitepaperbutton:hover {
-    color: #cc0000;
+    color: rgb(211 109 77);
 }
 
 .navicon2 {
@@ -419,13 +419,13 @@ h1 {
 }
 
 .tokenomicsheader {
-    color: #fff;
+    color: #000;
     font-family: Lato;
     font-size: 1.5em;
 }
 
 .tokenomicstext {
-    color: #b0b0b0;
+    color: #111;
     font-family: Lato;
     font-size: 1em;
 }
@@ -451,18 +451,18 @@ h1 {
     font-weight: bold;
     font-variant: normal;
     font-weight: 700;
-    color: #fff;
+    color: #000;
 }
 
 .audits {
     margin-top: 50px;
-    background-color: #111;
+    background-color: #FFF3DE;
     width: 100%;
 }
 
 .certikwrapper {
     display: inline-block;
-    background-color: #222;
+    background-color: #FFF3DE;
     border-radius: 10px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -484,7 +484,7 @@ h1 {
 .certikstatus {
     margin-left: 20px;
     display: inline-block;
-    color: #fff;
+    color: #000;
     font-family: Lato;
     font-size: 1em;
     line-height: 2em;
